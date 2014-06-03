@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#eee;
+}
+
+#canvasBg3{
+	display:block;
+	margin: 100px auto 0;
+	position: relative;
+}
+
+#canvasJet, #canvasEnemy, #canvasHUD, #canvasBg2, #canvasBg1, #canvasParachute, #canvasGameOver{
+	display:block;
+	margin: -500px auto 0;
+	position: relative;
+}
+
